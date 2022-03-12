@@ -30,7 +30,7 @@ Taller desarrollado por el **Google Developer Student Club de la Universidad de 
 - Leer
 - Salir a correr
 
-*Pancho López
--Ver anime
--Dormir
--Hacer ejercicio
+* Pancho López
+- Ver anime
+- Dormir
+- Hacer ejercicio
